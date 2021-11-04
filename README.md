@@ -11,7 +11,7 @@ Penentuan nilai π menggunakan 22/7 atau 3,14.
 ditentukan ketika ada angka yang diketahui terlebih dahulu,
 Jika angka itu termasuk kelipatan 7 maka menggunakan 22/7,
 sementara jika tidak termasuk kelipatan 7 berarti menggunakan 3,14.
-![gambar 2](sstugaske4/sstugas41.png)
+![gambar 2](sstugaske4/sstugaske41.png)
 
 #### Langkah Mencari Keliling Lingkaran 
 Keliling Lingkaran (K) =  2 x π x r 
@@ -19,4 +19,6 @@ Penentuan nilai π menggunakan 22/7 atau 3,14.
 ditentukan ketika ada angka yang diketahui terlebih dahulu,
 Jika angka itu termasuk kelipatan 7 maka menggunakan 22/7,
 sementara jika tidak termasuk kelipatan 7 berarti menggunakan 3,14.
+![gambar 3](sstugaske4/sstugaske43.png)
+
 
