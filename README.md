@@ -21,4 +21,7 @@ Jika angka itu termasuk kelipatan 7 maka menggunakan 22/7,
 sementara jika tidak termasuk kelipatan 7 berarti menggunakan 3,14.
 ![gambar 3](sstugaske4/sstugaske43.png)
 
+adapun flowchartnya adalah sebagai berikut
+![gambar 4](sstugaske4/sstugaske44.png)
+
 
